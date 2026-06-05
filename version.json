@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
-  "url": "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe",
-  "notes": "Petite amelioration de l ecran de connexion."
+    "version":  "0.2.0",
+    "url":  "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe",
+    "notes":  "Passage a la mise a jour fluide integree."
 }

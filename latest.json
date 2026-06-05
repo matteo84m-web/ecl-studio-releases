@@ -1,0 +1,11 @@
+{
+    "version":  "0.2.0",
+    "notes":  "Mise a jour automatique integree (plus besoin de relancer le setup) + ecran de connexion nettoye.",
+    "pub_date":  "2026-06-05T07:53:50Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReUJpSHA3NnNkWEQ2aytaTzFFSTNoWTZYeG9ERVg0ZFdaK2t0UjdVNi9pS3h1SEkwY0Q4aDZKaEU2Yi8rTmdFaWVGdDA4M2NSeUUvaEdlUXhLaldtYTQ5dzlSa0FmZUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjQ1OTc1CWZpbGU6RUNMIFN0dWRpb18wLjIuMF94NjQtc2V0dXAuZXhlClk5S0ZlUnVjaXQrYlhkbC8xTWJicnQ4Z2xjVDRxVENPb0JhMTNTYUVXVnUyZjJHVTdQKzA1bUt2ODdKYm1neFFXTXJoVCtnKzBOTHk4TFNtaVVDekNRPT0K",
+                                             "url":  "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe"
+                                         }
+                  }
+}
