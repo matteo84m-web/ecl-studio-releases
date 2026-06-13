@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.1",
+    "version":  "0.2.2",
     "url":  "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe",
-    "notes":  "Nouveau logo + mise a jour fluide."
+    "notes":  "Console en plein ecran et navigation simplifiee (Fonds et Bibliotheque dans l\u0027en-tete)."
 }

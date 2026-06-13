@@ -1,10 +1,10 @@
 {
-    "version":  "0.2.1",
-    "notes":  "Logo de l app harmonise avec la version web.",
-    "pub_date":  "2026-06-05T08:50:05Z",
+    "version":  "0.2.2",
+    "notes":  "Console en plein ecran et navigation simplifiee (Fonds et Bibliotheque dans l\u0027en-tete).",
+    "pub_date":  "2026-06-13T12:19:49Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReUJpSHA3NnNkWElEWGozRytYamZuU3RmcGw1OWZlZHdqVS9uazNBNTNnbWp4Nm04azJ5UjNER3p0UEhWRVBXOUo0cFZwWk1saFJVbE54WXpoa0FvdHpKREp5ZFV3NGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjQ5Mjc2CWZpbGU6RUNMIFN0dWRpb18wLjIuMV94NjQtc2V0dXAuZXhlCkJuVVp2Y09RSGpDbzIxdW16MTNocm05cUVPWmZSNHJQSzVtY1NGM2h4OXpwSWRpZ01OUTJyWjJkc2hQbzVDTEF2TktRckdrZXMzaVg0YXVRRkRBZUFBPT0K",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa09WeThTNnA0SzNpZTJnSXRZc3FiWllHUVlxdHIrN0RFd3lGb28rWGJaMVNKc21rK0J3U1J5QU5IdkU4eWNlbzdSNlV5TDJzbVFYSFVLWndNWHNEZHJMcS9MOTkzaXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzUzMTI4CWZpbGU6RUNMIFN0dWRpb18wLjIuMl94NjQtc2V0dXAuZXhlCjVWWU9FRmxZRzI2YnNWcDhQYk9wL091NmFKdGkxbjJxM1pOSTVWY1FzNHBhTVNWZEo2SDQ4b3NxRGxveDFkN2MycmRGenFTZGJITFQ2Y1BxaWprdEJBPT0K",
                                              "url":  "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe"
                                          }
                   }
