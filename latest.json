@@ -1,11 +1,11 @@
 {
-    "version":  "0.2.2",
-    "notes":  "Console en plein ecran et navigation simplifiee (Fonds et Bibliotheque dans l\u0027en-tete).",
-    "pub_date":  "2026-06-13T12:19:49Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa09WeThTNnA0SzNpZTJnSXRZc3FiWllHUVlxdHIrN0RFd3lGb28rWGJaMVNKc21rK0J3U1J5QU5IdkU4eWNlbzdSNlV5TDJzbVFYSFVLWndNWHNEZHJMcS9MOTkzaXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzUzMTI4CWZpbGU6RUNMIFN0dWRpb18wLjIuMl94NjQtc2V0dXAuZXhlCjVWWU9FRmxZRzI2YnNWcDhQYk9wL091NmFKdGkxbjJxM1pOSTVWY1FzNHBhTVNWZEo2SDQ4b3NxRGxveDFkN2MycmRGenFTZGJITFQ2Y1BxaWprdEJBPT0K",
-                                             "url":  "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe"
-                                         }
-                  }
+    "version": "0.2.3",
+    "notes": "Le titre du chant apparait desormais en petit en bas de la projection.",
+    "pub_date": "2026-06-23T17:37:49Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa09WeThTNnA0SytjQW9PYit1RXJoWGRMakRrQ3FDTTlGalFDaUZtQjlzNTVKc2lnSHh6K1h1ckZ1VkhaaGxzbWY4UTdCS2g2OUExem5ObGw1a0lYRXRNbGdYeVJ5N3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjM2MDk1CWZpbGU6RUNMIFN0dWRpb18wLjIuM194NjQtc2V0dXAuZXhlCm9zWUl6V3JWQ2hxRXR1WmJDcTRqNmlnNzU2RkdSNlA0cjF5NTJwcVJuaENoZ1NXbDZNUTROdlNJN0pHSUcyRm5TM25CYkFhZkZsK2pTVE55dXh6ZkFBPT0K",
+            "url": "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe"
+        }
+    }
 }
