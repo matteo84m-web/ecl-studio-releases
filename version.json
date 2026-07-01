@@ -1,5 +1,5 @@
 {
-    "version": "0.2.3",
+    "version": "0.2.4",
     "url": "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe",
-    "notes": "Le titre du chant apparait desormais en petit en bas de la projection."
+    "notes": "Ajout de deux versions de la Bible : Segond 21 et Bible du Semeur."
 }

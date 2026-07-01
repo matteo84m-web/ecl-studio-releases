@@ -1,10 +1,10 @@
 {
-    "version": "0.2.3",
-    "notes": "Le titre du chant apparait desormais en petit en bas de la projection.",
-    "pub_date": "2026-06-23T17:37:49Z",
+    "version": "0.2.4",
+    "notes": "Ajout de deux versions de la Bible : Segond 21 et Bible du Semeur.",
+    "pub_date": "2026-07-01T17:43:06Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa09WeThTNnA0SytjQW9PYit1RXJoWGRMakRrQ3FDTTlGalFDaUZtQjlzNTVKc2lnSHh6K1h1ckZ1VkhaaGxzbWY4UTdCS2g2OUExem5ObGw1a0lYRXRNbGdYeVJ5N3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjM2MDk1CWZpbGU6RUNMIFN0dWRpb18wLjIuM194NjQtc2V0dXAuZXhlCm9zWUl6V3JWQ2hxRXR1WmJDcTRqNmlnNzU2RkdSNlA0cjF5NTJwcVJuaENoZ1NXbDZNUTROdlNJN0pHSUcyRm5TM25CYkFhZkZsK2pTVE55dXh6ZkFBPT0K",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa09WeThTNnA0SzFya0lHdFZpb1YyNHE4UkFmODROS2tDL3FUWGlLVFMvYmlVa0hrN1Z5TUE3M0ZCZ3FmVUw5V3ZTNkVxemJKMlZMdDJjTnY4WTV5TzNaY2laOWEzVVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTI3NzYwCWZpbGU6RUNMIFN0dWRpb18wLjIuNF94NjQtc2V0dXAuZXhlCm8vY1hySFlYMHNIalVNcS8xbE9HQ3Z1dVQ5OGpCcCtxeTZDQ2pJYWpMakx5a0JMYVJQSXRGTFpUc1Q5N1UzNFV2TGV5ZVVGRXJQUXY2WFJWRmw5TUR3PT0K",
             "url": "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe"
         }
     }
