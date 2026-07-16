@@ -1,5 +1,5 @@
 {
-    "version": "0.2.5",
+    "version": "0.2.6",
     "url": "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe",
-    "notes": "Galerie de fonds reparee, fonds favoris et import direct depuis la console, nouvelles bulles de confirmation, et apercu redimensionnable ameliore."
+    "notes": "Apercus qui ne debordent plus (texte auto-ajuste comme sur l'ecran 2), annonce en grand lisible du fond de la salle avec montee en fondu, versets longs auto-ajustes aussi sur l'ecran 2, soulignement des onglets corrige."
 }

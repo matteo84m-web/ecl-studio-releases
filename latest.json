@@ -1,10 +1,10 @@
 {
-    "version": "0.2.5",
-    "notes": "Galerie de fonds reparee, fonds favoris et import direct depuis la console, nouvelles bulles de confirmation, et apercu redimensionnable ameliore.",
-    "pub_date": "2026-07-01T19:15:27Z",
+    "version": "0.2.6",
+    "notes": "Apercus qui ne debordent plus (texte auto-ajuste comme sur l'ecran 2), annonce en grand lisible du fond de la salle avec montee en fondu, versets longs auto-ajustes aussi sur l'ecran 2, soulignement des onglets corrige.",
+    "pub_date": "2026-07-16T19:49:40Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa09WeThTNnA0SzJHVFhtVDFXTjZMbTFYRmZRRWgzOE1PekJNbzNSdUkxblE1QWNKWHA5My9tS1JQNmo1UjFvNnk2ekZELzE0dmtZb2J1UzJlUnVHVUIzOW5lK2RheXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTMzMzE1CWZpbGU6RUNMIFN0dWRpb18wLjIuNV94NjQtc2V0dXAuZXhlClJFWkF5UUtMdVZTWHBzVS9ERUtCZG1BOHR5QUUrYjhsSXlDOURuaVZSemkvZkNGdncvTkZoUFlFZkRpZmpiYXo2T0NhNERLZ0ZNK0ZZMVNuK01MVkJnPT0K",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa09WeThTNnA0SzYxTmVOc2UrMGdEQnZObytKRlFneFRnR203VnhGYlU0d3dlTUROK1lvN0FwaDJiSkRNd0JZbTJ6aHdud2V0OXZmTlA1UENJdkVod1NUNlNEUTdCdWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjMxMzE2CWZpbGU6RUNMIFN0dWRpb18wLjIuNl94NjQtc2V0dXAuZXhlCjdjWllCTisvbnZBdEMyZ0V4L1FuK2VKQ3JuY3ptVXNTcjcyRlZrMUdBdWxVWTdVdlQ4cHhLaTJIejFSTXRXa0NCZG9INGNpM1lxSW16c0tKa3g1d0JRPT0K",
             "url": "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe"
         }
     }
