@@ -1,5 +1,5 @@
 {
-    "version": "0.2.7",
+    "version": "0.2.8",
     "url": "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe",
-    "notes": "Connexion memorisee : identifiants pre-remplis, case Memoriser sur cet appareil, et reconnexion automatique au demarrage si la session a expire."
+    "notes": "Meilleur decoupage des chants : chaque paragraphe devient sa propre strophe (chants sans structure), et les passages instrumentaux (accords seuls) ne creent plus de diapos vides a la projection."
 }

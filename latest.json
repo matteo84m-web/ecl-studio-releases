@@ -1,10 +1,10 @@
 {
-    "version": "0.2.7",
-    "notes": "Connexion memorisee : identifiants pre-remplis, case Memoriser sur cet appareil, et reconnexion automatique au demarrage si la session a expire.",
-    "pub_date": "2026-09-01T13:46:47Z",
+    "version": "0.2.8",
+    "notes": "Meilleur decoupage des chants : chaque paragraphe devient sa propre strophe (chants sans structure), et les passages instrumentaux (accords seuls) ne creent plus de diapos vides a la projection.",
+    "pub_date": "2026-09-10T15:33:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa09WeThTNnA0SytmNzNRVXlSbFJRaElUQmhGSnJqM0d0bUR4REZ4MVNhdFFFRDZJLzhlS3hOUVZ6Tkc4dnF2T2FzWHFmcnJCV21KaTJDakF6R2o3WEgzRHZpM3M0S3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjcwMjk5CWZpbGU6RUNMIFN0dWRpb18wLjIuN194NjQtc2V0dXAuZXhlClh3ZHhoclBQYXhuaURzUENnVVF3WUlSbGk0K2IzS0V0a05IZUx3WHJBL3dFWjF4ZHMycWJYdk9CZ2tLaHJNLzdNYUtQMWZnYXBodzNxVUNTc3B5ZURRPT0K",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa09WeThTNnA0SzFaaVpEdWhXbFJxWmVBNHd1cC8ydDZxQ2RQdzYrUVQvRXo5aUpkQVlZODlEWkRVL3ltSkJxVFlKTFRDMXZjYWxDdmdHNDdWY09hSm0zNHljVkY0anc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDU0MzU2CWZpbGU6RUNMIFN0dWRpb18wLjIuOF94NjQtc2V0dXAuZXhlCjExSzlWSHB0eEp2MU1sTE96Y3hQZTRDbkJXNWVBdWFOMHJ2dzBpQTB0bkJIckhSZVdPa29Bc1dBeG5EaC92WXFBclUzTHpTcFczTzJ2bmZ1bmtXSkRnPT0K",
             "url": "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe"
         }
     }
