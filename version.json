@@ -1,5 +1,5 @@
 {
-    "version": "0.2.8",
+    "version": "0.2.9",
     "url": "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe",
-    "notes": "Meilleur decoupage des chants : chaque paragraphe devient sa propre strophe (chants sans structure), et les passages instrumentaux (accords seuls) ne creent plus de diapos vides a la projection."
+    "notes": "Console adaptee aux petits ecrans (barre compacte, apercu sans chevauchement, vignettes lisibles). Recueil nettoye : 28 chants redecoupes en diapos courtes, tirets de partition retires."
 }
