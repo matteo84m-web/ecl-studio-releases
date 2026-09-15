@@ -1,5 +1,5 @@
 {
-    "version": "0.2.9",
+    "version": "0.2.10",
     "url": "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe",
-    "notes": "Console adaptee aux petits ecrans (barre compacte, apercu sans chevauchement, vignettes lisibles). Recueil nettoye : 28 chants redecoupes en diapos courtes, tirets de partition retires."
+    "notes": "Console petit ecran (titre compact, vignettes masquables, apercu plus grand), annonce au centre de l'ecran 2, titre du chant plus grand, modification des chants pour la projection sans toucher au recueil des musiciens"
 }

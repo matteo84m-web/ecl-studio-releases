@@ -1,10 +1,10 @@
 {
-    "version": "0.2.9",
-    "notes": "Console adaptee aux petits ecrans (barre compacte, apercu sans chevauchement, vignettes lisibles). Recueil nettoye : 28 chants redecoupes en diapos courtes, tirets de partition retires.",
-    "pub_date": "2026-09-10T17:10:00Z",
+    "version": "0.2.10",
+    "notes": "Console petit ecran (titre compact, vignettes masquables, apercu plus grand), annonce au centre de l'ecran 2, titre du chant plus grand, modification des chants pour la projection sans toucher au recueil des musiciens",
+    "pub_date": "2026-09-15T14:26:48Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa09WeThTNnA0SzEyM2VlUSt4MmZ5RXZ1djFqL3BMWUtUc1IzM3dLMW1iZitzOVFzUnhzWnh5M3dmTnBIL0R0bE1XWGlaK1pJaGZ2cW5YNGpqSGU0QllaUUk1TlBROHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDYwMTgzCWZpbGU6RUNMIFN0dWRpb18wLjIuOV94NjQtc2V0dXAuZXhlCnpaSUFsTzk2R0srbk5nZnFSQUo5NytGZjhjc3J0bkxIY2lJVENIWERQNGZxcDIrUEJaUVpCeWcwYnc4bEw5R2hyZndXN3djZTBWdmJpempvc0ZLY0JnPT0K",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa09WeThTNnA0SzJNVFJkUWg2WCtqY2VTSWVxMno4OWVNMld4TEppRUZlTnJtaUd5NlU5T3B6KzU1U3lEV0hFVXlCZE5qRmwwcUhzS0hHM29xWHM5YS85VTJITmxkVUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDgyMzg4CWZpbGU6RUNMIFN0dWRpb18wLjIuMTBfeDY0LXNldHVwLmV4ZQpGSUFwdGlFRGVoMnA4UU10UVBtbmxoc0l0RmtjVllPQWo5bThKZ0lNMmhORGVhNkJ6UjBXMTFJZUZIY1pVRDZkSHpsZkl4cmFCZURlM3B4YTQ4TzZBdz09Cg==",
             "url": "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe"
         }
     }
