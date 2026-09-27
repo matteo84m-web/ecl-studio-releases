@@ -1,10 +1,10 @@
 {
-    "version": "0.2.11",
-    "notes": "Recueil complet : tous les chants de l eglise s affichent de nouveau, y compris dans les cultes (Studio s arretait au 1000e chant, ex. Tu es notre Dieu)",
-    "pub_date": "2026-09-27T07:02:48Z",
+    "version": "0.2.12",
+    "notes": "Taille du texte reglable a part pour les chants et les versets, Bible separee Ancien / Nouveau Testament, ecran de la salle sans nom de section, defilement fluide avec l Ecran 2, menus Police et Transition repares",
+    "pub_date": "2026-09-27T15:47:45Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa09WeThTNnA0SzRDRXlsT1QvdUV1MkZmdE81QzFPZWF1amxjNkMzd0pLU2o0VVJKc3hBQzdVYjNlZHFhUjVmd2loOW91SStKeGVVKzE3Y3VBNkJjY3UzdEpZTnJCWGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDkyNDY3CWZpbGU6RUNMIFN0dWRpb18wLjIuMTFfeDY0LXNldHVwLmV4ZQpYQVBEWG9OS3dtZFhyQi9iVlM4bFhKQXJTYmVwUkdGRUNmbCtJLzV5b1I4d1Fad3BaS0hkZ2JNVmdtSW5wcEVURFZXWmJaS0Mwb0xhN3BiNEZIMzRDdz09Cg==",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa09WeThTNnA0SzRNOEMyTFhEbmw3aWNOR01YNmMxZnNlQm9pNDVadEQ0akFwcVRkb2hxSk1HcEZ0bWZHZDJhQ0ZKL1lNTkYwZUE0SThSQlhXREFLeFRxOVB1bTBpT3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTI0MDQzCWZpbGU6RUNMIFN0dWRpb18wLjIuMTJfeDY0LXNldHVwLmV4ZQpleGVkV1pMUWdiZ29SdjVLb2NsWlM2NjlacWxZcUJmQ3RFcytQbHc0OGtsZ29UU21yQWQwUVY3SEVJY1hiZkZwTmZadUlCMEZYWUh3UEM0V0UvSzBBZz09Cg==",
             "url": "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe"
         }
     }
