@@ -1,10 +1,10 @@
 {
-    "version": "0.2.10",
-    "notes": "Console petit ecran (titre compact, vignettes masquables, apercu plus grand), annonce au centre de l'ecran 2, titre du chant plus grand, modification des chants pour la projection sans toucher au recueil des musiciens",
-    "pub_date": "2026-09-15T14:26:48Z",
+    "version": "0.2.11",
+    "notes": "Recueil complet : tous les chants de l eglise s affichent de nouveau, y compris dans les cultes (Studio s arretait au 1000e chant, ex. Tu es notre Dieu)",
+    "pub_date": "2026-09-27T07:02:48Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa09WeThTNnA0SzJNVFJkUWg2WCtqY2VTSWVxMno4OWVNMld4TEppRUZlTnJtaUd5NlU5T3B6KzU1U3lEV0hFVXlCZE5qRmwwcUhzS0hHM29xWHM5YS85VTJITmxkVUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDgyMzg4CWZpbGU6RUNMIFN0dWRpb18wLjIuMTBfeDY0LXNldHVwLmV4ZQpGSUFwdGlFRGVoMnA4UU10UVBtbmxoc0l0RmtjVllPQWo5bThKZ0lNMmhORGVhNkJ6UjBXMTFJZUZIY1pVRDZkSHpsZkl4cmFCZURlM3B4YTQ4TzZBdz09Cg==",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa09WeThTNnA0SzRDRXlsT1QvdUV1MkZmdE81QzFPZWF1amxjNkMzd0pLU2o0VVJKc3hBQzdVYjNlZHFhUjVmd2loOW91SStKeGVVKzE3Y3VBNkJjY3UzdEpZTnJCWGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDkyNDY3CWZpbGU6RUNMIFN0dWRpb18wLjIuMTFfeDY0LXNldHVwLmV4ZQpYQVBEWG9OS3dtZFhyQi9iVlM4bFhKQXJTYmVwUkdGRUNmbCtJLzV5b1I4d1Fad3BaS0hkZ2JNVmdtSW5wcEVURFZXWmJaS0Mwb0xhN3BiNEZIMzRDdz09Cg==",
             "url": "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe"
         }
     }

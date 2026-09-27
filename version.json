@@ -1,5 +1,5 @@
 {
-    "version": "0.2.10",
+    "version": "0.2.11",
     "url": "https://github.com/matteo84m-web/ecl-studio-releases/raw/main/ECL-Studio-setup.exe",
-    "notes": "Console petit ecran (titre compact, vignettes masquables, apercu plus grand), annonce au centre de l'ecran 2, titre du chant plus grand, modification des chants pour la projection sans toucher au recueil des musiciens"
+    "notes": "Recueil complet : tous les chants de l eglise s affichent de nouveau, y compris dans les cultes (Studio s arretait au 1000e chant, ex. Tu es notre Dieu)"
 }
